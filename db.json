@@ -1,0 +1,40 @@
+{
+  "sales": [
+    {
+      "year": 2015,
+      "amount": 50,
+      "colorcode": "green",
+      "target": 45
+    },
+    {
+      "year": 2016,
+      "amount": 60,
+      "colorcode": "red",
+      "target": 45
+    },
+    {
+      "year": 2017,
+      "amount": 40,
+      "colorcode": "blue",
+      "target": 45
+    },
+    {
+      "year": 2018,
+      "amount": 75,
+      "colorcode": "orange",
+      "target" : 60
+    },
+    {
+      "year": 2019,
+      "amount": 45,
+      "colorcode": "grey",
+      "target": 37   
+    },
+    {
+      "year": 2020,
+      "amount": 50,
+      "colorcode": "purple",
+      "target" : 40
+    }
+  ]
+}
